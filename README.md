@@ -22,3 +22,8 @@
     1. Elephant
     2. Lion
     3. Tiger
+
+Sno|Name
+---|---
+1|Rishitha
+2|Kavya
